@@ -39,7 +39,7 @@ def plot(
         ax.set_ylabel(ylabels[ylab // ncols])
         ylab += 1
 
-        ax.set_xlabel(xlabels[xlab // nrows])
+        ax.set_xlabel(xlabels[xlab % ncols])
         xlab += 1
 
         ax.imshow(im.resize(images[idx // ncols].size))
