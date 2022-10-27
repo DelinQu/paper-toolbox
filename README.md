@@ -2,7 +2,7 @@
 
 Matplotlib for Paper is a light and out-of-the-box repo for scholar to create beautiful figures in paper. We holp to provide a clean, efficient and customisable api to users.
 
-Thus, our catalogue structure can be listed as follows，Containing a src with apis and corresponding examples, each sample being an ipynb.
+Thus, our catalogue structure can be listed as follows，containing a src with apis and corresponding examples, each one being an ipynb.
 
 ```
 .
