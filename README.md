@@ -9,7 +9,7 @@ Thus, our catalogue structure can be listed as follows，containing a src with a
 ├── example
 │   ├── images
 │   │   ├── ...
-│   └── plot_image_grid.ipynb       *
+│   └── plot_grid_image.ipynb       *
 ├── README.md
 └── src
     ├── plot_grid_image.py          *
@@ -20,7 +20,7 @@ Thus, our catalogue structure can be listed as follows，containing a src with a
 
 | api | detail | preview |
 |-----|--------|---------|
-|  [plot_grid_image](https://github.com/DelinQu/matplotlib-for-paper/blob/master/src/plot_grid_image.py)   |    Arrange a list of images into a grid, adding labels to the edges [[example]](https://github.com/DelinQu/matplotlib-for-paper/blob/master/example/plot_image_grid.ipynb).     |     ![image](https://user-images.githubusercontent.com/60593268/198169693-de9a2865-82bf-4bd5-b50e-a521842ccec4.png)|
+|  [plot_grid_image](https://github.com/DelinQu/matplotlib-for-paper/blob/master/src/plot_grid_image.py)   |    Arrange a list of images into a grid, adding labels to the edges [[example]](https://github.com/DelinQu/matplotlib-for-paper/blob/master/example/plot_grid_image.ipynb).     |     ![image](https://user-images.githubusercontent.com/60593268/198169693-de9a2865-82bf-4bd5-b50e-a521842ccec4.png)|
 
 
 # Welcome to Contribute!

@@ -11,7 +11,7 @@ def plot(
     ylabels=[],
     xlabels=[],
     axes_pad=0.05,
-    save_path="grid_images.pdf",
+    save_path="grid_image.pdf",
 ):
     # * read images
     images = [Image.open(pth) for pth in image_list]
