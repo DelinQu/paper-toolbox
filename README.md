@@ -1,3 +1,5 @@
+# :seedling: latex-for-paper!
+
 # :seedling: Matplotlib-for-paper!
 
 Matplotlib for Paper is a light and out-of-the-box repo for scholar to create beautiful figures in paper. We holp to provide a clean, efficient and customisable api to users.
